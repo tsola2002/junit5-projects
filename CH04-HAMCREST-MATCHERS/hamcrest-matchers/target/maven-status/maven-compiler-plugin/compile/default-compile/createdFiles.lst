@@ -1,0 +1,8 @@
+com/tsola2002/sut/SUT.class
+com/tsola2002/account/MockAccountManager.class
+com/tsola2002/Main.class
+com/tsola2002/sut/ResourceForAllTests.class
+com/tsola2002/account/Account.class
+com/tsola2002/account/AccountService.class
+com/tsola2002/calculator/Calculator.class
+com/tsola2002/account/AccountManager.class
